@@ -13,7 +13,7 @@ presentationItems:
     link: /decouverte#club
     image: '/img/hnagar.jpg'
     bulletPoints:
-      - bulletpoint1
+      - bulletpoint1 test
       - bulletpoint2
       - bulletpoint3
       - bulletpoint4
