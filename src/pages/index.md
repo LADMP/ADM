@@ -14,7 +14,7 @@ presentationItems:
     image: '/img/hnagar.jpg'
     bulletPoints:
       - bulletpoint1 test
-      - bulletpoint2
+      - bulletpoint2 test deploiement
       - bulletpoint3
       - bulletpoint4
   - titre: Le vol à voile
